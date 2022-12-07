@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ktrajasekar/node-express-course.git"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "keywords": [],
   "author": "",
